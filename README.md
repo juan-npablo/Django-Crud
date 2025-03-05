@@ -24,5 +24,4 @@ Este proyecto es una API de gestión de usuarios desarrollada con Django Rest Fr
 ### 1. Clonar el Repositorio
 
 ```bash
-git clone https://github.com/tu-usuario/nombre-del-proyecto.git
-cd nombre-del-proyecto
+git clone https://github.com/juan-npablo/Django-Crud
